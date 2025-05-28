@@ -152,6 +152,24 @@ BookStoreApp/
 - Price must be greater than 0
 - Publication date cannot be in the future
 
+## 📚 Documentation
+
+Comprehensive documentation is available in the `docs/` folder to help you understand, implement, and maintain this project:
+
+### 🎯 **Primary Guides**
+- **[Step-by-Step Guide](docs/Step_by_Step_Guide.md)** - Complete tutorial for building the entire project from scratch (1,813 lines)
+- **[Phase 1 Implementation Guide](docs/Phase_01_Implementation_Guide.md)** - Architecture overview and implementation details
+- **[Partial Update Guide](docs/Partial_Update_Guide.md)** - PATCH operations and partial update functionality
+
+### 📋 **Additional Resources**
+- **[Documentation Overview](docs/Documentation_Overview.md)** - Guide to all available documentation
+- **[Branch Strategy Guide](docs/Branch_Strategy_Guide.md)** - Git workflow and development process
+
+### 🚀 **Quick Start**
+1. **New to the project?** Start with [Step-by-Step Guide](docs/Step_by_Step_Guide.md)
+2. **Want architecture overview?** Read [Phase 1 Implementation Guide](docs/Phase_01_Implementation_Guide.md)
+3. **Need specific features?** Check [Partial Update Guide](docs/Partial_Update_Guide.md)
+
 ## Learning Objectives
 
 This phase teaches:
